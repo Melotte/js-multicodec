@@ -109,6 +109,7 @@
   "messagepack": 513,
   "libp2p-peer-record": 769,
   "melotte-encoded": 1000,
+  "melotte-versioned": 1001,
   "sha2-256-trunc254-padded": 4114,
   "ripemd-128": 4178,
   "ripemd-160": 4179,
